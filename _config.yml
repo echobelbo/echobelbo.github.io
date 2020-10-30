@@ -1,19 +1,19 @@
 # Site settings
 title: JacopoBelbo
 description: 'My Blog'
-url: 'http://thomas.zuehlke.family'
+url: 'https://echobelbo.gihub.io'
 baseurl: ''
-profilepic: '/images/tzuehlke.jpg'
+profilepic: '/images/jacopobelbo.png'
 bkimage: '/images/bk1.jpg'
 google_analytics: UA-XXXXXX-X
 font_awesome: 'XXXXXXXXXX.js'
 
 author:
-  name: 'Thomas Zühlke'
-  email: info@thomas-zuehlke.de
+  name: 'JacopoBelbo'
+  email: echobelbo@mail.ustc.edu.cn
   twitter_username: thomzuehlke
 #  facebook_username: joshgerdes
-  github_username:  tzuehlke
+  github_username:  echobelbo
   linkedin_username:  thomas-zühlke-889182165
   meetup_name: Azure-Meetup-Rostock-MV
 
